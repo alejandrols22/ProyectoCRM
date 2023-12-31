@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.InmobiliariaCRM.NoActionBar" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Personaliza tu tema aquí. -->
+    </style>
+
+</resources>
